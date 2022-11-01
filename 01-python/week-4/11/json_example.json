@@ -1,0 +1,8 @@
+{
+    "workers": 
+        [
+            {"name": "Имя1", "age": 34, "occupation": "Программист"},
+            {"name": "Имя2", "age": 24, "occupation": "Программист"},
+            {"name": "Имя3", "age": 40, "occupation": "Грузчик"}
+        ]
+}
