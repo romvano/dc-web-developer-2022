@@ -1,0 +1,6 @@
+<ipython-input-1-62cc18cfba68>[LINE:10]# DEBUG    [2022-12-02 01:11:33,348]  Сообщение для отладки
+<ipython-input-1-62cc18cfba68>[LINE:11]# INFO     [2022-12-02 01:11:33,349]  Самое обыкновенное информационное сообщение
+<ipython-input-1-62cc18cfba68>[LINE:12]# WARNING  [2022-12-02 01:11:33,349]  Предупреждение
+<ipython-input-1-62cc18cfba68>[LINE:13]# ERROR    [2022-12-02 01:11:33,349]  Ошибка
+<ipython-input-1-62cc18cfba68>[LINE:14]# CRITICAL [2022-12-02 01:11:33,350]  Полный крах
+<ipython-input-4-c291bfcc7c8e>[LINE:1]# INFO     [2022-12-02 01:14:35,538]  Наш новый логгер работает
